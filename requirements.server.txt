@@ -1,0 +1,6 @@
+python-chess
+matplotlib
+numpy
+tqdm
+typing_extensions
+python-dotenv
